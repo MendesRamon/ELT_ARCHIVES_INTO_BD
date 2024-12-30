@@ -1,5 +1,5 @@
 --	Criando data base
-CREATE DATABASE STG_ESTOQUE
+CREATE DATABASE DW_ESTOQUE
 
 --	Criando tabela de stage de dados
 
